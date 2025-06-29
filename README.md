@@ -58,12 +58,20 @@ graph TD
 
 ### ⚡ 智能CLI工具
 ```bash
-# 核心命令
+# 基础练习命令
 ./w init                # 初始化环境
-./w practice            # 开始工作流程
-./w status              # 查看进度统计  
-./w note "想法内容"      # 快速记录想法
+./w practice            # 开始今日练习
+./w status              # 查看练习状态
 ./w random              # 获取随机提示
+
+# 素材管理命令
+./w fragment "思考内容" --tag "标签"     # 添加思维碎片
+./w note "快速想法"                      # 快速记录
+./w search "关键词"                      # 搜索内容
+
+# 成果输出命令
+./w create "文章标题"                    # 创建新作品
+./w export "关键词" "标题"               # 导出素材到作品
 ```
 
 ### 🤖 Agent自举工作流
