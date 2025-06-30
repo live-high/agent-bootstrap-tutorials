@@ -23,6 +23,8 @@
 
 ### Tool Requirements
 - **Claude Code**: Latest version installed and configured
+  - 🚨 **Important**: You need active Claude Code access to follow these tutorials
+  - 💡 **Need help getting access?** Join our community group for assistance and account sharing opportunities!
 - **Git**: For version control (optional but recommended)
 - **Internet Connection**: For Claude Code API access
 
@@ -196,8 +198,18 @@ Connection failed / API error
 **If you encounter issues**:
 1. **Check error messages** for specific guidance
 2. **Review Claude Code documentation** for troubleshooting
-3. **Create issue in this repository** with error details
-4. **Join community discussion** for peer support
+3. **Join our community group** - Get direct help with Claude Code access and setup issues
+4. **Create issue in this repository** with error details
+
+### 🎁 Community Support
+Need Claude Code access or having setup issues? Our community provides:
+- **Claude Code account guidance and sharing**
+- **Live support from experienced users**
+- **Exclusive setup resources and tips**
+
+<img src="group.jpg" alt="Join Community for Claude Code Access Help" width="150">
+
+*Join our community for Claude Code access assistance!*
 
 ## 📚 Additional Configuration
 

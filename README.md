@@ -108,6 +108,28 @@ project-directory/
 - Methods for building Agent self-bootstrapping workflows
 - How to seamlessly integrate tools into daily work
 
+## 🔑 Claude Code Access Required
+
+To follow these tutorials, you'll need access to **Claude Code**. 
+
+### How to Get Claude Code Access
+- **Official Access**: Visit [Claude Code Documentation](https://docs.anthropic.com/claude/docs) for official access methods
+- **Community Support**: Join our community group for Claude Code access guidance and exclusive benefits! 
+
+### 🎁 Join Our Community for Exclusive Benefits
+Having trouble getting Claude Code access? Join our community group where we provide:
+- 📋 **Step-by-step access guidance** 
+- 🎯 **Claude Code account sharing opportunities**
+- 💡 **Exclusive tips and best practices**
+- 🤝 **Direct support from experienced users**
+- 🎉 **Special community benefits and resources**
+
+<img src="group.jpg" alt="Community Group QR Code - Join for Claude Code access help and exclusive benefits!" width="200">
+
+*Scan to join our community and get help with Claude Code access!*
+
+---
+
 ## 🚀 Get Started Now
 
 ### Method 1: Complete Learning (Recommended)
@@ -140,10 +162,17 @@ The ultimate goal is creating a self-reinforcing workflow:
 
 ## 🤝 Community & Contribution
 
-### 💬 Join Q&A Group
-Having questions or want to communicate with other learners? Welcome to join our Q&A group:
+### 💬 Join Our Community Group
+🎁 **Special Benefits for Community Members:**
+- **Claude Code Access Support**: Get help accessing Claude Code accounts
+- **Account Sharing Opportunities**: Community members share Claude Code access
+- **Priority Q&A Support**: Faster responses to your questions
+- **Exclusive Resources**: Advanced tutorials and tips not available elsewhere
+- **Networking**: Connect with other Agent development enthusiasts
 
-<img src="group.jpg" alt="Q&A Group QR Code" width="200">
+<img src="group.jpg" alt="Community Group QR Code - Join for Claude Code access and exclusive benefits!" width="200">
+
+*Join our community for Claude Code access help and exclusive benefits!*
 
 ### Ways to Participate
 - 🌟 **Star**: If the tutorials help you
